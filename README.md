@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/pavel1233212/lab05.svg?branch=master)](https://travis-ci.org/pavel1233212/lab05)
+[![Build Status](https://travis-ci.org/pavel1233212/lab05.svg?branch=master)](https://travis-ci.org/pavel1233212/lab05)
 ## Laboratory work IV
 
 Данная лабораторная работа посвещена изучению систем автоматизации сборки проекта на примере **CMake**
